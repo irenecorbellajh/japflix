@@ -26,3 +26,13 @@ main {
 .offcanvas-top{
     height: fit-content;
 }
+
+.star-yellow {
+    color: gold;
+}
+
+#movieDetails.offcanvas-top {
+    height: 70vh !important; 
+    width: 90vh !important; 
+    font-size: 1.2rem;
+}
